@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRUtility", "Workshop\Empty\Client\BRUtility.csproj", "{00FE42A0-219C-4FC7-9EC5-B3F8F1FA058F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UA Client Controls", "Samples\ClientControls.Net4\UA Client Controls.csproj", "{A247D2EE-14FC-463D-A9BA-6CFF1EF22B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FE42A0-219C-4FC7-9EC5-B3F8F1FA058F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FE42A0-219C-4FC7-9EC5-B3F8F1FA058F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FE42A0-219C-4FC7-9EC5-B3F8F1FA058F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FE42A0-219C-4FC7-9EC5-B3F8F1FA058F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A247D2EE-14FC-463D-A9BA-6CFF1EF22B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A247D2EE-14FC-463D-A9BA-6CFF1EF22B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A247D2EE-14FC-463D-A9BA-6CFF1EF22B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A247D2EE-14FC-463D-A9BA-6CFF1EF22B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FB5EF9F-9A65-428F-8817-13DF5E39423B}
+	EndGlobalSection
+EndGlobal
