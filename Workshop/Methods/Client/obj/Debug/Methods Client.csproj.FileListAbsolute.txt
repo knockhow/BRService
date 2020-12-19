@@ -1,0 +1,14 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.MethodsClient.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.MethodsClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.MethodsClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.MethodsClient.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.MainForm.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Client\obj\Debug\Methods Client.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Client\obj\Debug\Methods Client.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Client\obj\Debug\Methods Client.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Client\obj\Debug\Methods Client.csprojAssemblyReference.cache

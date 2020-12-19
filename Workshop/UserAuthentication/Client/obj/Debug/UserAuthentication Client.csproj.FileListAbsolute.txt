@@ -1,0 +1,15 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\TestData.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.UserAuthenticationClient.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.UserAuthenticationClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.UserAuthenticationClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.UserAuthenticationClient.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\UserAuthentication\Client\obj\Debug\UserAuthentication Client.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\UserAuthentication\Client\obj\Debug\Quickstarts.UserAuthenticationClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\UserAuthentication\Client\obj\Debug\Quickstarts.UserAuthenticationClient.MainForm.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\UserAuthentication\Client\obj\Debug\Quickstarts.UserAuthenticationClient.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\UserAuthentication\Client\obj\Debug\UserAuthentication Client.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\UserAuthentication\Client\obj\Debug\UserAuthentication Client.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\UserAuthentication\Client\obj\Debug\UserAuthentication Client.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\UserAuthentication\Client\obj\Debug\Quickstarts.UserAuthenticationClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\UserAuthentication\Client\obj\Debug\Quickstarts.UserAuthenticationClient.pdb

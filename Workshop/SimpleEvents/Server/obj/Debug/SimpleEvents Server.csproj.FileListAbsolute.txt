@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\SimpleEventsServer.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.SimpleEventsServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.SimpleEventsServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.SimpleEventsServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\SimpleEvents\Server\obj\Debug\SimpleEvents Server.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\SimpleEvents\Server\obj\Debug\Quickstarts.SimpleEventsServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\SimpleEvents\Server\obj\Debug\Quickstarts.SimpleEvents.Server.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\SimpleEvents\Server\obj\Debug\SimpleEvents Server.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\SimpleEvents\Server\obj\Debug\SimpleEvents Server.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\SimpleEvents\Server\obj\Debug\SimpleEvents Server.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\SimpleEvents\Server\obj\Debug\Quickstarts.SimpleEventsServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\SimpleEvents\Server\obj\Debug\Quickstarts.SimpleEventsServer.pdb

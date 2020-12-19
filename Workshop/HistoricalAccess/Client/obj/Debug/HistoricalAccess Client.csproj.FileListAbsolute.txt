@@ -1,0 +1,16 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\HistoricalAccessClient.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalAccessClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalAccessClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalAccessClient.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\HistoricalAccess Client.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\Quickstarts.HistoricalAccessClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\Quickstarts.HistoricalAccess.Client.ReadHistoryDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\Quickstarts.HistoricalAccess.Client.WriteValueDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\Quickstarts.HistoricalAccessClient.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\Quickstarts.HistoricalAccess.Client.MainForm.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\HistoricalAccess Client.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\HistoricalAccess Client.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\HistoricalAccess Client.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\Quickstarts.HistoricalAccessClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Client\obj\Debug\Quickstarts.HistoricalAccessClient.pdb

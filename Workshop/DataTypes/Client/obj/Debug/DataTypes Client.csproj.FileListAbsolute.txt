@@ -1,0 +1,14 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\debug\DataTypesClient.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\debug\Quickstarts.DataTypesClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\debug\Quickstarts.DataTypesClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\debug\Quickstarts.DataTypesClient.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataTypes\Client\obj\Debug\DataTypes Client.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataTypes\Client\obj\Debug\Quickstarts.DataTypesClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataTypes\Client\obj\Debug\Quickstarts.DataTypes.MainForm.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataTypes\Client\obj\Debug\Quickstarts.DataTypes.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataTypes\Client\obj\Debug\DataTypes Client.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataTypes\Client\obj\Debug\DataTypes Client.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataTypes\Client\obj\Debug\DataTypes Client.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataTypes\Client\obj\Debug\Quickstarts.DataTypesClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataTypes\Client\obj\Debug\Quickstarts.DataTypesClient.pdb

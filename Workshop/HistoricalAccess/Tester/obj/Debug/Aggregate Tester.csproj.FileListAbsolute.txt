@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\TestData.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\HistoricalAccessTester.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\HistoricalAccessTester.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\HistoricalAccessTester.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Tester\obj\Debug\Aggregate Tester.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Tester\obj\Debug\HistoricalAccessTester.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Tester\obj\Debug\Quickstarts.MainForm.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Tester\obj\Debug\Quickstarts.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Tester\obj\Debug\Aggregate Tester.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Tester\obj\Debug\Aggregate Tester.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Tester\obj\Debug\Aggregate Tester.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Tester\obj\Debug\HistoricalAccessTester.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Tester\obj\Debug\HistoricalAccessTester.pdb

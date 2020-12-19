@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\HistoricalAccessServer.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalAccessServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalAccessServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalAccessServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Server\obj\Debug\HistoricalAccess Server.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Server\obj\Debug\Quickstarts.HistoricalAccessServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Server\obj\Debug\Quickstarts.HistoricalAccessServer.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Server\obj\Debug\HistoricalAccess Server.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Server\obj\Debug\HistoricalAccess Server.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Server\obj\Debug\HistoricalAccess Server.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Server\obj\Debug\Quickstarts.HistoricalAccessServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalAccess\Server\obj\Debug\Quickstarts.HistoricalAccessServer.pdb

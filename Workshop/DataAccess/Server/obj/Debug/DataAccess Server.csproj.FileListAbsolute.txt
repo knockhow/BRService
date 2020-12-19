@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\DataAccessServer.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.DataAccessServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.DataAccessServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.DataAccessServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataAccess\Server\obj\Debug\Quickstarts.DataAccessServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataAccess\Server\obj\Debug\Quickstarts.DataAccessServer.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataAccess\Server\obj\Debug\DataAccess Server.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataAccess\Server\obj\Debug\DataAccess Server.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataAccess\Server\obj\Debug\DataAccess Server.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataAccess\Server\obj\Debug\Quickstarts.DataAccessServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataAccess\Server\obj\Debug\Quickstarts.DataAccessServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\DataAccess\Server\obj\Debug\DataAccess Server.csprojAssemblyReference.cache

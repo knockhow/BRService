@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\HistoricalEventsServer.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalEventsServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalEventsServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalEventsServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Server\obj\Debug\HistoricalEvents Server.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEventsServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEvents.Server.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Server\obj\Debug\HistoricalEvents Server.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Server\obj\Debug\HistoricalEvents Server.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Server\obj\Debug\HistoricalEvents Server.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEventsServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEventsServer.pdb
