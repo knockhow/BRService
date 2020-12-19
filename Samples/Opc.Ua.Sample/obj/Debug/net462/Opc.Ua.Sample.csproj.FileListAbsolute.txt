@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\bin\Debug\net462\Opc.Ua.Sample.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\bin\Debug\net462\Opc.Ua.Sample.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\bin\Debug\net462\Newtonsoft.Json.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\bin\Debug\net462\Opc.Ua.Core.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\bin\Debug\net462\Opc.Ua.Server.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\bin\Debug\net462\BouncyCastle.Crypto.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\net462\Opc.Ua.Sample.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\net462\Opc.Ua.Sample.AssemblyInfoInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\net462\Opc.Ua.Sample.AssemblyInfo.cs
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\net462\Opc.Ua.Sample.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\net462\Opc.Ua.Sample.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\net462\Opc.Ua.Sample.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\net462\Opc.Ua.Sample.pdb

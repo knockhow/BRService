@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\NetCoreConsoleClient\\NetCoreConsoleClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\NetCoreConsoleClient\\NetCoreConsoleClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\NetCoreConsoleClient\\NetCoreConsoleClient.csproj",
+        "projectName": "NetCoreConsoleClient",
+        "projectPath": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\NetCoreConsoleClient\\NetCoreConsoleClient.csproj",
+        "packagesPath": "C:\\Users\\okt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\NetCoreConsoleClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\NuGet.Config",
+          "C:\\Users\\okt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://opcfoundation.pkgs.visualstudio.com/opcua-netstandard/_packaging/opcua-preview/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Mono.Options": {
+              "target": "Package",
+              "version": "[6.6.0.161, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Bindings.Https.Debug": {
+              "target": "Package",
+              "version": "[1.4.364.40, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Client.Debug": {
+              "target": "Package",
+              "version": "[1.4.364.40, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Configuration.Debug": {
+              "target": "Package",
+              "version": "[1.4.364.40, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

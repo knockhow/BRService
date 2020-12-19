@@ -1,0 +1,9 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\bin\Debug\netstandard2.0\Opc.Ua.Sample.deps.json
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\bin\Debug\netstandard2.0\Opc.Ua.Sample.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\bin\Debug\netstandard2.0\Opc.Ua.Sample.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.AssemblyInfoInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.AssemblyInfo.cs
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.pdb

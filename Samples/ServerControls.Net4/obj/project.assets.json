@@ -1,0 +1,442 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.2": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Configuration/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "OPCFoundation.NetStandard.Opc.Ua.Core": "1.4.364.40"
+        },
+        "frameworkAssemblies": [
+          "System.IdentityModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Configuration.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Configuration.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Core/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Portable.BouncyCastle": "1.8.8"
+        },
+        "frameworkAssemblies": [
+          "System.Security",
+          "System.ServiceModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Core.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Server/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "OPCFoundation.NetStandard.Opc.Ua.Core": "1.4.364.40"
+        },
+        "frameworkAssemblies": [
+          "System.IdentityModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Server.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Server.dll": {}
+        }
+      },
+      "Portable.BouncyCastle/1.8.8": {
+        "type": "package",
+        "compile": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Configuration/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "OPCFoundation.NetStandard.Opc.Ua.Core": "1.4.364.40"
+        },
+        "frameworkAssemblies": [
+          "System.IdentityModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Configuration.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Configuration.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Core/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Portable.BouncyCastle": "1.8.8"
+        },
+        "frameworkAssemblies": [
+          "System.Security",
+          "System.ServiceModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Core.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Server/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "OPCFoundation.NetStandard.Opc.Ua.Core": "1.4.364.40"
+        },
+        "frameworkAssemblies": [
+          "System.IdentityModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Server.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Server.dll": {}
+        }
+      },
+      "Portable.BouncyCastle/1.8.8": {
+        "type": "package",
+        "compile": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win-x64": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Configuration/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "OPCFoundation.NetStandard.Opc.Ua.Core": "1.4.364.40"
+        },
+        "frameworkAssemblies": [
+          "System.IdentityModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Configuration.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Configuration.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Core/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Portable.BouncyCastle": "1.8.8"
+        },
+        "frameworkAssemblies": [
+          "System.Security",
+          "System.ServiceModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Core.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Server/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "OPCFoundation.NetStandard.Opc.Ua.Core": "1.4.364.40"
+        },
+        "frameworkAssemblies": [
+          "System.IdentityModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Server.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Server.dll": {}
+        }
+      },
+      "Portable.BouncyCastle/1.8.8": {
+        "type": "package",
+        "compile": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win-x86": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Configuration/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "OPCFoundation.NetStandard.Opc.Ua.Core": "1.4.364.40"
+        },
+        "frameworkAssemblies": [
+          "System.IdentityModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Configuration.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Configuration.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Core/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Portable.BouncyCastle": "1.8.8"
+        },
+        "frameworkAssemblies": [
+          "System.Security",
+          "System.ServiceModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Core.dll": {}
+        }
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Server/1.4.364.40": {
+        "type": "package",
+        "dependencies": {
+          "OPCFoundation.NetStandard.Opc.Ua.Core": "1.4.364.40"
+        },
+        "frameworkAssemblies": [
+          "System.IdentityModel"
+        ],
+        "compile": {
+          "lib/net462/Opc.Ua.Server.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Opc.Ua.Server.dll": {}
+        }
+      },
+      "Portable.BouncyCastle/1.8.8": {
+        "type": "package",
+        "compile": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "OPCFoundation.NetStandard.Opc.Ua.Configuration/1.4.364.40": {
+      "sha512": "WGHEbbCywOkMdUCCYxvMNft1wDUlkVgBaQCVOtA48/RkUus4ifqbAXuwT9s0g4n28E7NAZ6n6MvO8uE7EucDSg==",
+      "type": "package",
+      "path": "opcfoundation.netstandard.opc.ua.configuration/1.4.364.40",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/logo.jpg",
+        "lib/net462/Opc.Ua.Configuration.dll",
+        "lib/net462/Opc.Ua.Configuration.xml",
+        "lib/netstandard2.0/Opc.Ua.Configuration.dll",
+        "lib/netstandard2.0/Opc.Ua.Configuration.xml",
+        "lib/netstandard2.1/Opc.Ua.Configuration.dll",
+        "lib/netstandard2.1/Opc.Ua.Configuration.xml",
+        "licenses/LICENSE.txt",
+        "opcfoundation.netstandard.opc.ua.configuration.1.4.364.40.nupkg.sha512",
+        "opcfoundation.netstandard.opc.ua.configuration.nuspec"
+      ]
+    },
+    "OPCFoundation.NetStandard.Opc.Ua.Core/1.4.364.40": {
+      "sha512": "LszIcJ77EJtLFi8iJTCD5r8W1nOWqiAbmxPlCYs0lByNIlw9LJY7uI2Q3wl1/OiPvhVqQh6GH8spAkYXMesmUA==",
+      "type": "package",
+      "path": "opcfoundation.netstandard.opc.ua.core/1.4.364.40",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/logo.jpg",
+        "lib/net462/Opc.Ua.Core.dll",
+        "lib/net462/Opc.Ua.Core.xml",
+        "lib/netstandard2.0/Opc.Ua.Core.dll",
+        "lib/netstandard2.0/Opc.Ua.Core.xml",
+        "lib/netstandard2.1/Opc.Ua.Core.dll",
+        "lib/netstandard2.1/Opc.Ua.Core.xml",
+        "licenses/LICENSE.txt",
+        "opcfoundation.netstandard.opc.ua.core.1.4.364.40.nupkg.sha512",
+        "opcfoundation.netstandard.opc.ua.core.nuspec"
+      ]
+    },
+    "OPCFoundation.NetStandard.Opc.Ua.Server/1.4.364.40": {
+      "sha512": "ajgY7C/L6E3g109nFk57U86MDWP4ShwlKJi59ZvaYU4tBUFDb5I8M5szxTf+7nTe53UCdiFwlTk7aDZIcZfgwg==",
+      "type": "package",
+      "path": "opcfoundation.netstandard.opc.ua.server/1.4.364.40",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/logo.jpg",
+        "lib/net462/Opc.Ua.Server.dll",
+        "lib/net462/Opc.Ua.Server.xml",
+        "lib/netstandard2.0/Opc.Ua.Server.dll",
+        "lib/netstandard2.0/Opc.Ua.Server.xml",
+        "lib/netstandard2.1/Opc.Ua.Server.dll",
+        "lib/netstandard2.1/Opc.Ua.Server.xml",
+        "licenses/LICENSE.txt",
+        "opcfoundation.netstandard.opc.ua.server.1.4.364.40.nupkg.sha512",
+        "opcfoundation.netstandard.opc.ua.server.nuspec"
+      ]
+    },
+    "Portable.BouncyCastle/1.8.8": {
+      "sha512": "1rxdf8NfyAxLlqIEciCl/yNhmz1YiLkmp6rrF8p3/NVmyHHzPWLx8djtDvSAwhPLg64BXvsRcM3+5bP1HAUdYg==",
+      "type": "package",
+      "path": "portable.bouncycastle/1.8.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/BouncyCastle.Crypto.dll",
+        "lib/net40/BouncyCastle.Crypto.xml",
+        "lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "lib/netstandard2.0/BouncyCastle.Crypto.xml",
+        "portable.bouncycastle.1.8.8.nupkg.sha512",
+        "portable.bouncycastle.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.2": [
+      "OPCFoundation.NetStandard.Opc.Ua.Configuration >= 1.4.364.40",
+      "OPCFoundation.NetStandard.Opc.Ua.Server >= 1.4.364.40"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\okt\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\ServerControls.Net4\\UA Server Controls.csproj",
+      "projectName": "UA Server Controls",
+      "projectPath": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\ServerControls.Net4\\UA Server Controls.csproj",
+      "packagesPath": "C:\\Users\\okt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\ServerControls.Net4\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\NuGet.Config",
+        "C:\\Users\\okt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net462"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://opcfoundation.pkgs.visualstudio.com/opcua-netstandard/_packaging/opcua-preview/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net462": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net462": {
+        "dependencies": {
+          "OPCFoundation.NetStandard.Opc.Ua.Configuration": {
+            "target": "Package",
+            "version": "[1.4.364.40, )"
+          },
+          "OPCFoundation.NetStandard.Opc.Ua.Server": {
+            "target": "Package",
+            "version": "[1.4.364.40, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
