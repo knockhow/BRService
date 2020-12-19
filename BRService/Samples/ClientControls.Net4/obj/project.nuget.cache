@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Q6Nm5p3QxFC4svbBYe1eucCpIDBtQxOuQ0tZbwN0KGHDgofwQeeva5gfvcJ2QJ+SQ+ydpeTn5YJZPgyRbq6Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okt\\Desktop\\BRService\\Samples\\ClientControls.Net4\\UA Client Controls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okt\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\okt\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.client\\1.4.364.40\\opcfoundation.netstandard.opc.ua.client.1.4.364.40.nupkg.sha512",
+    "C:\\Users\\okt\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.client.complextypes\\1.4.364.40\\opcfoundation.netstandard.opc.ua.client.complextypes.1.4.364.40.nupkg.sha512",
+    "C:\\Users\\okt\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.configuration\\1.4.364.40\\opcfoundation.netstandard.opc.ua.configuration.1.4.364.40.nupkg.sha512",
+    "C:\\Users\\okt\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.core\\1.4.364.40\\opcfoundation.netstandard.opc.ua.core.1.4.364.40.nupkg.sha512",
+    "C:\\Users\\okt\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\portable.bouncycastle.1.8.8.nupkg.sha512"
+  ],
+  "logs": []
+}

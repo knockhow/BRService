@@ -1,0 +1,19 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerDiagnosticsCtrl.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.HeaderBranding.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
