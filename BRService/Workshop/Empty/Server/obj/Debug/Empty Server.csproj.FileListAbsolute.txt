@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.EmptyServer.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.EmptyServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.EmptyServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.EmptyServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Empty\Server\obj\Debug\Empty Server.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Empty\Server\obj\Debug\Quickstarts.EmptyServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Empty\Server\obj\Debug\Quickstarts.EmptyServer.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Empty\Server\obj\Debug\Empty Server.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Empty\Server\obj\Debug\Empty Server.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Empty\Server\obj\Debug\Empty Server.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Empty\Server\obj\Debug\Quickstarts.EmptyServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Empty\Server\obj\Debug\Quickstarts.EmptyServer.pdb

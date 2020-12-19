@@ -1,0 +1,19 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\AlarmConditionClient.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.AlarmConditionClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.AlarmConditionClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.AlarmConditionClient.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\AlarmCondition Client.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.AddCommentDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.AuditEventForm.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.DialogResponseDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.SetAreaFilterDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.ViewEventDetailsDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.MainForm.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\AlarmCondition Client.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\AlarmCondition Client.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\AlarmCondition Client.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.pdb

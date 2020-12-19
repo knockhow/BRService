@@ -1,0 +1,20 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\HistoricalEventsClient.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalEventsClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalEventsClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.HistoricalEventsClient.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\HistoricalEvents Client.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEventsClient.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.SelectTypeDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.EventListView.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.ReadEventHistoryDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.ModifyFilterDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.MainForm.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.ViewEventDetailsDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.SetValueDlg.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\HistoricalEvents Client.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\HistoricalEvents Client.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\HistoricalEvents Client.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEventsClient.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEventsClient.pdb

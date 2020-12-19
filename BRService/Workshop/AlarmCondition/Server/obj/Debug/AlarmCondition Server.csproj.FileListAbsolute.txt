@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\AlarmConditionServer.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.AlarmConditionServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.AlarmConditionServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.AlarmConditionServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Server\obj\Debug\AlarmCondition Server.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Server\obj\Debug\Quickstarts.AlarmConditionServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Server\obj\Debug\Quickstarts.AlarmConditionServer.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Server\obj\Debug\AlarmCondition Server.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Server\obj\Debug\AlarmCondition Server.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Server\obj\Debug\AlarmCondition Server.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Server\obj\Debug\Quickstarts.AlarmConditionServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\AlarmCondition\Server\obj\Debug\Quickstarts.AlarmConditionServer.pdb

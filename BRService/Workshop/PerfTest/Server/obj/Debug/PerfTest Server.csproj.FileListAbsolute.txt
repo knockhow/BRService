@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\PerfTestServer.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.PerfTestServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.PerfTestServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.PerfTestServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\PerfTest\Server\obj\Debug\PerfTest Server.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\PerfTest\Server\obj\Debug\Quickstarts.PerfTestServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\PerfTest\Server\obj\Debug\Quickstarts.PerfTestServer.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\PerfTest\Server\obj\Debug\PerfTest Server.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\PerfTest\Server\obj\Debug\PerfTest Server.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\PerfTest\Server\obj\Debug\PerfTest Server.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\PerfTest\Server\obj\Debug\Quickstarts.PerfTestServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\PerfTest\Server\obj\Debug\Quickstarts.PerfTestServer.pdb

@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.MethodsServer.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.MethodsServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.MethodsServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.MethodsServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Server\obj\Debug\Methods Server.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Server\obj\Debug\Quickstarts.MethodsServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Server\obj\Debug\Quickstarts.MethodsServer.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Server\obj\Debug\Methods Server.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Server\obj\Debug\Methods Server.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Server\obj\Debug\Methods Server.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Server\obj\Debug\Quickstarts.MethodsServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Methods\Server\obj\Debug\Quickstarts.MethodsServer.pdb

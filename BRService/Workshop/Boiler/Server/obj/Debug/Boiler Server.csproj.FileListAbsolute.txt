@@ -1,0 +1,13 @@
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\BoilerServer.Config.xml
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\App.ico
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.BoilerServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.BoilerServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\bin\Debug\Quickstarts.BoilerServer.pdb
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Boiler\Server\obj\Debug\Boiler Server.csprojAssemblyReference.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Boiler\Server\obj\Debug\Quickstarts.BoilerServer.exe.config
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Boiler\Server\obj\Debug\Quickstarts.Boiler.Server.Properties.Resources.resources
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Boiler\Server\obj\Debug\Boiler Server.csproj.GenerateResource.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Boiler\Server\obj\Debug\Boiler Server.csproj.CoreCompileInputs.cache
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Boiler\Server\obj\Debug\Boiler Server.csproj.CopyComplete
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Boiler\Server\obj\Debug\Quickstarts.BoilerServer.exe
+C:\Users\okt\Desktop\UA-.NETStandard-Samples-master\Workshop\Boiler\Server\obj\Debug\Quickstarts.BoilerServer.pdb

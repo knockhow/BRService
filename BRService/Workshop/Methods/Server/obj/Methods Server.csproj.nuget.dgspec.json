@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Workshop\\Methods\\Server\\Methods Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\ServerControls.Net4\\UA Server Controls.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\ServerControls.Net4\\UA Server Controls.csproj",
+        "projectName": "UA Server Controls",
+        "projectPath": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\ServerControls.Net4\\UA Server Controls.csproj",
+        "packagesPath": "C:\\Users\\okt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\ServerControls.Net4\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\NuGet.Config",
+          "C:\\Users\\okt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://opcfoundation.pkgs.visualstudio.com/opcua-netstandard/_packaging/opcua-preview/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "OPCFoundation.NetStandard.Opc.Ua.Configuration": {
+              "target": "Package",
+              "version": "[1.4.364.40, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Server": {
+              "target": "Package",
+              "version": "[1.4.364.40, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Workshop\\Methods\\Server\\Methods Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Workshop\\Methods\\Server\\Methods Server.csproj",
+        "projectName": "Methods Server",
+        "projectPath": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Workshop\\Methods\\Server\\Methods Server.csproj",
+        "packagesPath": "C:\\Users\\okt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Workshop\\Methods\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\NuGet.Config",
+          "C:\\Users\\okt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://opcfoundation.pkgs.visualstudio.com/opcua-netstandard/_packaging/opcua-preview/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {
+              "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\ServerControls.Net4\\UA Server Controls.csproj": {
+                "projectPath": "C:\\Users\\okt\\Desktop\\UA-.NETStandard-Samples-master\\Samples\\ServerControls.Net4\\UA Server Controls.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "OPCFoundation.NetStandard.Opc.Ua": {
+              "target": "Package",
+              "version": "[1.4.364.40, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
